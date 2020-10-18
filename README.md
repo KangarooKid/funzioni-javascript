@@ -1,2 +1,3 @@
-# funzioni-javascript
-funzioni-javascript
+# Funzioni javascript
+
+Lista di funzioni javascript
